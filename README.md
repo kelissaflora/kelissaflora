@@ -1,15 +1,13 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+a+Kelissa;Data+Science+Student;Python+%7C+R+%7C+C+%7C+C%2B%2B"/>
-</p>
+<h1 align="center" style="color:#ff69b4;">Hello, I'm Kélissa 🌸</h1>
 
-<h3 align="center">🎓 Ciência de Dados e Inteligência Artificial</h3>
 <p align="center">
+🎓 Data Science and Artificial Intelligence Student <br>
 Universidade Estadual de Londrina
 </p>
 
 ---
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=pink"/>
@@ -20,7 +18,7 @@ Universidade Estadual de Londrina
 
 ---
 
-### 🌸 Contato
+### 🌸 Contact
 
 <p>
 <a href="SEU_LINK_LINKEDIN">
