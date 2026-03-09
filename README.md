@@ -1,7 +1,10 @@
-<h1 align="center" style="color:#ff69b4;">Hello, I'm Kélissa 🌸</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:000000&height=200&section=header&text=Hello,%20I'm%20Kelissa&fontSize=40&fontColor=ffffff"/>
+</p>
 
 <p align="center">
-🎓 Data Science and Artificial Intelligence Student <br>
+🎓 Data Science and Artificial Intelligence Student  
+<br>
 Universidade Estadual de Londrina
 </p>
 
@@ -10,10 +13,10 @@ Universidade Estadual de Londrina
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=pink"/>
-<img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=pink"/>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=pink"/>
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=pink"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=ff69b4"/>
 </p>
 
 ---
@@ -22,10 +25,10 @@ Universidade Estadual de Londrina
 
 <p>
 <a href="SEU_LINK_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
 </a>
 
 <a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=pink"/>
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
 </a>
 </p>
