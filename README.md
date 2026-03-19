@@ -10,7 +10,7 @@ Universidade Estadual de Londrina
 
 ---
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ff69b4)
 ![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=ff69b4)
@@ -19,7 +19,7 @@ Universidade Estadual de Londrina
 
 ---
 
-### 🌸 Contact
+### Contact
 
 <p align="center">
 <a href="https://www.linkedin.com/in/k%C3%A9lissa-flora-900095347/">
