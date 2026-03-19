@@ -12,28 +12,16 @@ Universidade Estadual de Londrina
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ff69b4" alt="Python"/>
-<img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=ff69b4" alt="R"/>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=ff69b4" alt="C"/>
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=ff69b4" alt="C++"/>
-</p>
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ff69b4)
+![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=ff69b4)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=ff69b4)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=ff69b4)
 
 ---
 
 ### 🌸 Contact
 
-<p>
-<a href="https://www.linkedin.com/in/k%C3%A9lissa-flora-900095347/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
-</a>
-
-<a href="mailto:kelissa.emanuele.flora@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
-</a>
-</p>
-
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/k%C3%A9lissa-flora-900095347/">
 <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
 </a>
